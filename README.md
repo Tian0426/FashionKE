@@ -21,3 +21,5 @@ python train.py
 The default tensorboard log files are saved at ./checkpoint, where you can start a tensorboard to see the training curve.   
 The default trained model parameters are saved at ./params.   
 The default prediction results are saved at ./result.
+
+### Acknowledge
